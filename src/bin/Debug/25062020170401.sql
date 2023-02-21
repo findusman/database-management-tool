@@ -1,0 +1,6 @@
+
+
+--                                   Table : TBL_SALES_AND_RETURN_MAIN
+
+
+create table [TBL_SALES_AND_RETURN_MAIN] (  [CMP_ID] nvarchar(50)  NULL ,   [BRC_ID] nvarchar(50)  NULL ,   [SALES_AND_RETURN_MAIN_ID] nvarchar(50)  NULL ,   [SALES_AND_RETURN_MAIN_maxID] nvarchar(50)  NULL ,   [SALES_AND_RETURN_MAIN_supplierID] nvarchar(MAX)  NULL ,   [SALES_AND_RETURN_MAIN_VCHID] nvarchar(50)  NULL ,   [SALES_AND_RETURN_MAIN_cashOrCredit] nvarchar(50)  NULL ,   [SALES_AND_RETURN_MAIN_SALESOrReturn] nvarchar(50)  NULL ,   [SALES_AND_RETURN_MAIN_date] datetime  NULL ,   [SALES_AND_RETURN_MAIN_totalAmount] float  NULL ,   [SALES_AND_RETURN_MAIN_totalPayableAmount] float  NULL ,   [SALES_AND_RETURN_MAIN_discountAmount] float  NULL ,   [SALES_AND_RETURN_MAIN_paidAmount] float  NULL ,   [SALES_AND_RETURN_MAIN_reference] nvarchar(MAX)  NULL ,   [SALES_AND_RETURN_MAIN_narration] nvarchar(MAX)  NULL ,   [SALES_AND_RETURN_MAIN_Maker] nvarchar(MAX)  NULL ,   [SALES_AND_RETURN_MAIN_Model] nvarchar(MAX)  NULL ,   [SALES_AND_RETURN_MAIN_Mileage] nvarchar(MAX)  NULL ,   [SALES_AND_RETURN_MAIN_VehicleNumber] nvarchar(MAX)  NULL ,   [Is_Auto_Generated] bit  NULL ,   [Is_Deleted] bit  NULL ,   [User_ID] nvarchar(MAX)  NULL , )

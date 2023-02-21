@@ -1,0 +1,343 @@
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.exe
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.pdb
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\ResolveAssemblyReference.cache
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Properties.Resources.resources
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\ResGen.read.1.tlog
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\ResGen.write.1.tlog
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.exe.licenses
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.exe
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.pdb
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View.resources
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_sele_db.resources
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_parameters_to.resources
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Print_Options.resources
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frmBACKUP.resources
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Export_data.resources
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frmRESTO.resources
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Copy_Rows.resources
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.exe.config
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_COPY_DATA.resources
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.frm_Reset_identity.resources
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_GENERATES_SCRIPTS.resources
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Scripts.frm_scripts.resources
+I:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.XtraForm2.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.exe.config
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.exe
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.pdb
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frmBACKUP.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Copy_Rows.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_COPY_DATA.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Export_data.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.frm_Reset_identity.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_parameters_to.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Print_Options.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frmRESTO.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_GENERATES_SCRIPTS.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Scripts.frm_scripts.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_sele_db.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Properties.Resources.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.XtraForm2.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.exe.licenses
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.exe
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.pdb
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Main_MDI.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.XtraForm3.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_new.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.RibbonForm1.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_c.resources
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\ResolveAssemblyReference.cache
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\ResGen.read.1.tlog
+F:\Continue Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\ResGen.write.1.tlog
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.exe.config
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.exe
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.pdb
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.exe
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.pdb
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\ResolveAssemblyReference.cache
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_c.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_new.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Main_MDI.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frmBACKUP.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Copy_Rows.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_COPY_DATA.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Export_data.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.frm_Reset_identity.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_parameters_to.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Print_Options.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frmRESTO.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_GENERATES_SCRIPTS.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Scripts.frm_scripts.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_sele_db.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Properties.Resources.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.RibbonForm1.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.XtraForm2.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.XtraForm3.resources
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\ResGen.read.1.tlog
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\ResGen.write.1.tlog
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.exe.licenses
+F:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Print_Options_a.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.exe.config
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.exe
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.pdb
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.csprojResolveAssemblyReference.cache
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_c.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_new.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Main_MDI.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frmBACKUP.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Copy_Rows.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_COPY_DATA.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Export_data.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.frm_Reset_identity.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_parameters_to.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Print_Options.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Print_Options_a.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frmRESTO.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_GENERATES_SCRIPTS.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Scripts.frm_scripts.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_sele_db.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Properties.Resources.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.RibbonForm1.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.XtraForm2.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.XtraForm3.resources
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.csproj.GenerateResource.Cache
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.exe.licenses
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.exe
+G:\Continue Projects\C#\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.pdb
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.exe.config
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.exe
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.pdb
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.exe
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.pdb
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.csprojResolveAssemblyReference.cache
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_c.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_new.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Main_MDI.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frmBACKUP.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Copy_Rows.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_COPY_DATA.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Export_data.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.frm_Reset_identity.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_parameters_to.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Print_Options.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Print_Options_a.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frmRESTO.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_GENERATES_SCRIPTS.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Scripts.frm_scripts.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_sele_db.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Properties.Resources.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.RibbonForm1.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.XtraForm2.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.XtraForm3.resources
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.csproj.GenerateResource.Cache
+G:\Continue Projects\C#\Windows\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.exe.licenses
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.exe.config
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.exe
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.pdb
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.exe
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\bin\Debug\DATA_MS.pdb
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.csprojResolveAssemblyReference.cache
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_c.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_new.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Main_MDI.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frmBACKUP.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Copy_Rows.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_COPY_DATA.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Export_data.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.frm_Reset_identity.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_parameters_to.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Print_Options.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Print_Options_a.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frmRESTO.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_GENERATES_SCRIPTS.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Scripts.frm_scripts.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.frm_sele_db.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.Properties.Resources.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.RibbonForm1.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.XtraForm2.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.XtraForm3.resources
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.csproj.GenerateResource.Cache
+F:\Completed Projects\DATA_MANAGEMENT\DATA_MS\DATA_MS\obj\Debug\DATA_MS.exe.licenses
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\bin\Debug\DATA_MS.exe.config
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.exe
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.pdb
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\bin\Debug\DATA_MS.exe
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\bin\Debug\DATA_MS.pdb
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.csprojResolveAssemblyReference.cache
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_c.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_new.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Main_MDI.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmBACKUP.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Copy_Rows.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_COPY_DATA.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Export_data.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.frm_Reset_identity.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_parameters_to.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Print_Options.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Print_Options_a.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmRESTO.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_GENERATES_SCRIPTS.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Scripts.frm_scripts.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_sele_db.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Properties.Resources.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.RibbonForm1.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.XtraForm2.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.XtraForm3.resources
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.csproj.GenerateResource.Cache
+F:\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.exe.licenses
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\bin\Debug\DATA_MS.exe.config
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.exe
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.pdb
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.csprojResolveAssemblyReference.cache
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_c.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_new.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Main_MDI.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmBACKUP.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Copy_Rows.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_COPY_DATA.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Export_data.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.frm_Reset_identity.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_parameters_to.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Print_Options.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Print_Options_a.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmRESTO.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_GENERATES_SCRIPTS.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Scripts.frm_scripts.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_sele_db.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.Properties.Resources.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.RibbonForm1.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.XtraForm2.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.XtraForm3.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.csproj.GenerateResource.Cache
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\obj\Debug\DATA_MS.exe.licenses
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\bin\Debug\DATA_MS.exe
+C:\Data\Development\Continue Projects\C#\Windows\Running\DATA MS\DATA_MS\bin\Debug\DATA_MS.pdb
+C:\Development\C#\DATA MS\DATA_MS\bin\Debug\DATA_MS.exe.config
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.exe
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.pdb
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.csprojResolveAssemblyReference.cache
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_c.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_new.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Main_MDI.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmBACKUP.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Copy_Rows.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_COPY_DATA.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Export_data.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.frm_Reset_identity.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_parameters_to.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Print_Options.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Print_Options_a.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmRESTO.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_GENERATES_SCRIPTS.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Scripts.frm_scripts.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_sele_db.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Properties.Resources.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.RibbonForm1.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.XtraForm2.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.XtraForm3.resources
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.csproj.GenerateResource.Cache
+C:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.exe.licenses
+C:\Development\C#\DATA MS\DATA_MS\bin\Debug\DATA_MS.exe
+C:\Development\C#\DATA MS\DATA_MS\bin\Debug\DATA_MS.pdb
+D:\Development\C#\DATA MS\DATA_MS\bin\Debug\DATA_MS.exe.config
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.exe
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.pdb
+D:\Development\C#\DATA MS\DATA_MS\bin\Debug\DATA_MS.exe
+D:\Development\C#\DATA MS\DATA_MS\bin\Debug\DATA_MS.pdb
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_c.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_new.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Main_MDI.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmBACKUP.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Copy_Rows.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_COPY_DATA.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Export_data.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.frm_Reset_identity.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_parameters_to.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Print_Options.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Print_Options_a.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmRESTO.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_GENERATES_SCRIPTS.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Scripts.frm_scripts.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_sele_db.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Properties.Resources.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.RibbonForm1.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.XtraForm2.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.XtraForm3.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.csproj.GenerateResource.Cache
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.exe.licenses
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Main_Screen.frm_checkWhereClause.resources
+E:\Development\C#\DATA MS\DATA_MS\bin\Debug\DATA_MS.exe.config
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.exe
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.pdb
+E:\Development\C#\DATA MS\DATA_MS\bin\Debug\DATA_MS.exe
+E:\Development\C#\DATA MS\DATA_MS\bin\Debug\DATA_MS.pdb
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.csprojResolveAssemblyReference.cache
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_c.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_new.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Main_Screen.frm_checkWhereClause.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Main_MDI.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmBACKUP.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Copy_Rows.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_COPY_DATA.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Export_data.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.frm_Reset_identity.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_parameters_to.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Print_Options.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Print_Options_a.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmRESTO.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_GENERATES_SCRIPTS.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Scripts.frm_scripts.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_sele_db.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.Properties.Resources.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.RibbonForm1.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.XtraForm2.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.XtraForm3.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.csproj.GenerateResource.Cache
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.exe.licenses
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmSQLStructure.resources
+E:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmSQLStructure.resources
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.csprojAssemblyReference.cache
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.csproj.CoreCompileInputs.cache
+D:\Development\C#\DATA MS\DATA_MS\obj\Debug\DATA_MS.csproj.CopyComplete
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\bin\Debug\DATA_MS.exe.config
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.exe
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.pdb
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\bin\Debug\DATA_MS.exe
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\bin\Debug\DATA_MS.pdb
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.csprojResolveAssemblyReference.cache
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmSQLStructure.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_c.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View_new.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.Main_Screen.frm_checkWhereClause.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_Data_View.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.Main_MDI.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmBACKUP.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.Copy_Rows.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_COPY_DATA.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.Export_data.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.frm_Reset_identity.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_parameters_to.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.Print_Options.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.Print_Options_a.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.frmRESTO.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Copy.frm_GENERATES_SCRIPTS.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.Other_Actions.Scripts.frm_scripts.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.frm_sele_db.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.Properties.Resources.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.RibbonForm1.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.XtraForm2.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.XtraForm3.resources
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.csproj.GenerateResource.Cache
+D:\old development\Development\Development\C# Desktop Devlopment\DATA MS\DATA_MS\obj\Debug\DATA_MS.exe.licenses
+D:\Development\.net\database-management-tool\DATA_MS\bin\Debug\DATA_MS.exe.config
+D:\Development\.net\database-management-tool\DATA_MS\obj\Debug\DATA_MS.exe
+D:\Development\.net\database-management-tool\DATA_MS\obj\Debug\DATA_MS.pdb

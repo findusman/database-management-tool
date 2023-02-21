@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DM_LUBRICANTSDataSet" targetNamespace="http://tempuri.org/DM_LUBRICANTSDataSet.xsd" xmlns:mstns="http://tempuri.org/DM_LUBRICANTSDataSet.xsd" xmlns="http://tempuri.org/DM_LUBRICANTSDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DM_LUBRICANTSConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DM_LUBRICANTSConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DATA_MS.Properties.Settings.GlobalReference.Default.DM_LUBRICANTSConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tablesTableAdapter" GeneratorDataComponentClassName="tablesTableAdapter" Name="tables" UserDataComponentName="tablesTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DM_LUBRICANTSConnectionString (Settings)" DbObjectName="DM_LUBRICANTS.sys.tables" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select CAST('True' as Bit)  as [S], name as Names , '' as Description from sys.tables order by name</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="S" DataSetColumn="S" />
+              <Mapping SourceColumn="Names" DataSetColumn="Names" />
+              <Mapping SourceColumn="Description" DataSetColumn="Description" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DM_LUBRICANTSDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DM_LUBRICANTSDataSet" msprop:Generator_UserDSName="DM_LUBRICANTSDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tables" msprop:Generator_TableClassName="tablesDataTable" msprop:Generator_TableVarName="tabletables" msprop:Generator_RowChangedName="tablesRowChanged" msprop:Generator_TablePropName="tables" msprop:Generator_RowDeletingName="tablesRowDeleting" msprop:Generator_RowChangingName="tablesRowChanging" msprop:Generator_RowEvHandlerName="tablesRowChangeEventHandler" msprop:Generator_RowDeletedName="tablesRowDeleted" msprop:Generator_RowClassName="tablesRow" msprop:Generator_UserTableName="tables" msprop:Generator_RowEvArgName="tablesRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="S" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnS" msprop:Generator_ColumnPropNameInRow="S" msprop:Generator_ColumnPropNameInTable="SColumn" msprop:Generator_UserColumnName="S" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Names" msprop:Generator_ColumnVarNameInTable="columnNames" msprop:Generator_ColumnPropNameInRow="Names" msprop:Generator_ColumnPropNameInTable="NamesColumn" msprop:Generator_UserColumnName="Names">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="128" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Description" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" msprop:Generator_UserColumnName="Description" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dt_checkWhereClause" msprop:Generator_TableClassName="dt_checkWhereClauseDataTable" msprop:Generator_TableVarName="tabledt_checkWhereClause" msprop:Generator_TablePropName="dt_checkWhereClause" msprop:Generator_RowDeletingName="dt_checkWhereClauseRowDeleting" msprop:Generator_RowChangingName="dt_checkWhereClauseRowChanging" msprop:Generator_RowEvHandlerName="dt_checkWhereClauseRowChangeEventHandler" msprop:Generator_RowDeletedName="dt_checkWhereClauseRowDeleted" msprop:Generator_UserTableName="dt_checkWhereClause" msprop:Generator_RowChangedName="dt_checkWhereClauseRowChanged" msprop:Generator_RowEvArgName="dt_checkWhereClauseRowChangeEvent" msprop:Generator_RowClassName="dt_checkWhereClauseRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Total_x0020_Where" msprop:Generator_ColumnVarNameInTable="columnTotal_Where" msprop:Generator_ColumnPropNameInRow="Total_Where" msprop:Generator_ColumnPropNameInTable="Total_WhereColumn" msprop:Generator_UserColumnName="Total Where" type="xs:string" minOccurs="0" />
+              <xs:element name="Total_x0020_BRC" msprop:Generator_ColumnVarNameInTable="columnTotal_BRC" msprop:Generator_ColumnPropNameInRow="Total_BRC" msprop:Generator_ColumnPropNameInTable="Total_BRCColumn" msprop:Generator_UserColumnName="Total BRC" type="xs:string" minOccurs="0" />
+              <xs:element name="Total_x0020_Delete" msprop:Generator_ColumnVarNameInTable="columnTotal_Delete" msprop:Generator_ColumnPropNameInRow="Total_Delete" msprop:Generator_ColumnPropNameInTable="Total_DeleteColumn" msprop:Generator_UserColumnName="Total Delete" type="xs:string" minOccurs="0" />
+              <xs:element name="Total_x0020_Join" msprop:Generator_ColumnVarNameInTable="columnTotal_Join" msprop:Generator_ColumnPropNameInRow="Total_Join" msprop:Generator_ColumnPropNameInTable="Total_JoinColumn" msprop:Generator_UserColumnName="Total Join" type="xs:string" minOccurs="0" />
+              <xs:element name="Status" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnPropNameInTable="StatusColumn" msprop:Generator_UserColumnName="Status" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4DA38566-68CE-452C-953B-302694B7D429}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DATA_MS</RootNamespace>
+    <AssemblyName>DATA_MS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Unit.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.1.Wizard, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v13.1.UI, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.1.Extensions, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="MySql.Data, Version=6.1.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ER_Chandu\3 From 6 August 2016 ERP_Chandu\ER_Chandu\PRESENTATION_LAYER\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity, Version=6.1.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ER_Chandu\3 From 6 August 2016 ERP_Chandu\ER_Chandu\PRESENTATION_LAYER\bin\Debug\MySql.Data.Entity.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Web, Version=6.1.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ER_Chandu\3 From 6 August 2016 ERP_Chandu\ER_Chandu\PRESENTATION_LAYER\bin\Debug\MySql.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="readme.MD" />
+    <Compile Include="DAL\DAl.cs" />
+    <Compile Include="DM_LUBRICANTSDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DM_LUBRICANTSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmSQLStructure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSQLStructure.Designer.cs">
+      <DependentUpon>frmSQLStructure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Generics\cls_Functions.cs" />
+    <Compile Include="Generics\cls_Grid_View.cs" />
+    <Compile Include="Generics\cls_Paths.cs" />
+    <Compile Include="Main Screen\Copy of frm_Data_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main Screen\Copy of frm_Data_View.Designer.cs">
+      <DependentUpon>Copy of frm_Data_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main Screen\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main Screen\Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main Screen\frm_checkWhereClause.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main Screen\frm_checkWhereClause.Designer.cs">
+      <DependentUpon>frm_checkWhereClause.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main Screen\frm_Data_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main Screen\frm_Data_View.Designer.cs">
+      <DependentUpon>frm_Data_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_MDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_MDI.Designer.cs">
+      <DependentUpon>Main_MDI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other Actions\Back Up\frmBACKUP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Actions\Back Up\frmBACKUP.designer.cs">
+      <DependentUpon>frmBACKUP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other Actions\Copy\Copy_Rows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Actions\Copy\Copy_Rows.Designer.cs">
+      <DependentUpon>Copy_Rows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other Actions\Copy\frm_COPY_DATA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Actions\Copy\frm_COPY_DATA.Designer.cs">
+      <DependentUpon>frm_COPY_DATA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other Actions\Export\Export_data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Actions\Export\Export_data.designer.cs">
+      <DependentUpon>Export_data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other Actions\frm_Reset_identity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Actions\frm_Reset_identity.Designer.cs">
+      <DependentUpon>frm_Reset_identity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other Actions\Parameters Passing\frm_parameters_to.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Actions\Parameters Passing\frm_parameters_to.Designer.cs">
+      <DependentUpon>frm_parameters_to.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other Actions\Printing\Print_Options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Actions\Printing\Print_Options.Designer.cs">
+      <DependentUpon>Print_Options.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other Actions\print\Print_Options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Actions\print\Print_Options.Designer.cs">
+      <DependentUpon>Print_Options.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other Actions\Restore\frmRESTO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Actions\Restore\frmRESTO.designer.cs">
+      <DependentUpon>frmRESTO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other Actions\Scripts\frm_GENERATES_SCRIPTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Actions\Scripts\frm_GENERATES_SCRIPTS.Designer.cs">
+      <DependentUpon>frm_GENERATES_SCRIPTS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other Actions\Scripts\frm_scripts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Actions\Scripts\frm_scripts.Designer.cs">
+      <DependentUpon>frm_scripts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other Actions\Select Db\frm_sele_db.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Actions\Select Db\frm_sele_db.Designer.cs">
+      <DependentUpon>frm_sele_db.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Generic_Function.cs" />
+    <Compile Include="Person.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RibbonForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RibbonForm1.Designer.cs">
+      <DependentUpon>RibbonForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XtraForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XtraForm2.Designer.cs">
+      <DependentUpon>XtraForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XtraForm3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XtraForm3.Designer.cs">
+      <DependentUpon>XtraForm3.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmSQLStructure.resx">
+      <DependentUpon>frmSQLStructure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Screen\Copy of frm_Data_View.resx">
+      <DependentUpon>Copy of frm_Data_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Screen\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Screen\frm_checkWhereClause.resx">
+      <DependentUpon>frm_checkWhereClause.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Screen\frm_Data_View.resx">
+      <DependentUpon>frm_Data_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_MDI.resx">
+      <DependentUpon>Main_MDI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Actions\Back Up\frmBACKUP.resx">
+      <DependentUpon>frmBACKUP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Actions\Copy\Copy_Rows.resx">
+      <DependentUpon>Copy_Rows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Actions\Copy\frm_COPY_DATA.resx">
+      <DependentUpon>frm_COPY_DATA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Actions\Export\Export_data.resx">
+      <DependentUpon>Export_data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Actions\frm_Reset_identity.resx">
+      <DependentUpon>frm_Reset_identity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Actions\Parameters Passing\frm_parameters_to.resx">
+      <DependentUpon>frm_parameters_to.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Actions\Printing\Print_Options.resx">
+      <DependentUpon>Print_Options.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Actions\print\Print_Options.resx">
+      <DependentUpon>Print_Options.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Actions\Restore\frmRESTO.resx">
+      <DependentUpon>frmRESTO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Actions\Scripts\frm_GENERATES_SCRIPTS.resx">
+      <DependentUpon>frm_GENERATES_SCRIPTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Actions\Scripts\frm_scripts.resx">
+      <DependentUpon>frm_scripts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Actions\Select Db\frm_sele_db.resx">
+      <DependentUpon>frm_sele_db.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RibbonForm1.resx">
+      <DependentUpon>RibbonForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraForm2.resx">
+      <DependentUpon>XtraForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraForm3.resx">
+      <DependentUpon>XtraForm3.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="DM_LUBRICANTSDataSet.xsc">
+      <DependentUpon>DM_LUBRICANTSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DM_LUBRICANTSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DM_LUBRICANTSDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DM_LUBRICANTSDataSet.xss">
+      <DependentUpon>DM_LUBRICANTSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add 2.ico" />
+    <None Include="Resources\Application.ico" />
+    <None Include="Resources\Camera Accept.ico" />
+    <None Include="Resources\cancel.ico" />
+    <None Include="Resources\Maintenance.ico" />
+    <None Include="Resources\Navigate down%281%29.ico" />
+    <None Include="Resources\new file.ico" />
+    <Content Include="Unit.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
