@@ -1213,7 +1213,7 @@
             superToolTip1.Items.Add(toolTipItem1);
             superToolTip1.Items.Add(toolTipTitleItem2);
             this.ribbonControl1.ApplicationButtonSuperTip = superToolTip1;
-            this.ribbonControl1.ApplicationCaption = "Data Management With Sql Server   ..::::.. 786 Software Technologies ..::::..";
+            this.ribbonControl1.ApplicationCaption = "Data Management Tool  ...:::... Deeveloped By Hafiz Usman";
             this.ribbonControl1.ColorScheme = DevExpress.XtraBars.Ribbon.RibbonControlColorScheme.Green;
             this.ribbonControl1.ExpandCollapseItem.Id = 0;
             this.ribbonControl1.Images = this.imageCollection1;
@@ -2975,7 +2975,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frm_Data_View";
             this.Ribbon = this.ribbonControl1;
-            this.Text = "Data Management With Sql Server   ..::::.. 786 Software Technologies ..::::..";
+            this.Text = "Data Management Tool Developed By Hafiz Usman";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.frm_Data_View_Load);
             ((System.ComponentModel.ISupportInitialize)(this.Tabs)).EndInit();

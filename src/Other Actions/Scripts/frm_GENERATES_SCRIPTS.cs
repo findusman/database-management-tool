@@ -36,7 +36,7 @@ namespace DATA_MS.Other_Actions.Copy
 
 
 
-                DataSet ds = obj_Dal.selection("select name as [Names]  from sys.databases where database_id > 6");
+                DataSet ds = obj_Dal.selection("select name as [Names]  from sys.databases");
 
                 Generic_Function.Grid_lookupedit(LOOK_UP_DATABSES_1, "Names", "Names", ds.Tables[0], "");
                 Generic_Function.Grid_lookupedit(LOOK_UP_DATABSES_2, "Names", "Names", ds.Tables[0], "");
